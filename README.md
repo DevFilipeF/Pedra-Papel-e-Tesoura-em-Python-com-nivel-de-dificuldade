@@ -22,5 +22,5 @@ Este é um projeto de um jogo de Jokenpo (Pedra, Papel e Tesoura) em Python, com
 
 1. Clone este repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/seu-usuario/jokenpo-game.git
+   git clone https://github.com/DevFilipeF/jokenpo-game.git
    cd jokenpo-game
